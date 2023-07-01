@@ -14,4 +14,4 @@ pip install PyQtWebEngine
 ```
 
 ## Results
-<img src="https://github.com/Shravani1383/FreeBird/blob/main/Output.png" width="528" height="600"/>
+<img src="https://github.com/Shravani1383/FreeBird/blob/main/Output.png" width="528" height="520"/>
